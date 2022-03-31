@@ -1,0 +1,22 @@
+{
+  "name": "apivue",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bootstrap": "^5.1.3",
+    "vue": "^3.2.25",
+    "vue-axios": "^3.4.0",
+    "vue-router": "^4.0.12"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@vitejs/plugin-vue": "^2.0.0",
+    "sass": "^1.48.0",
+    "vite": "^2.7.2"
+  }
+}
